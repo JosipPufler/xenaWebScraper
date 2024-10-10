@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "decompress": "^4.2.1",
+    "gunzip-file": "^0.1.1",
+    "puppeteer": "^23.5.0",
+    "puppeteer-autoscroll-down": "^2.0.0",
+    "puppeteer-cluster": "^0.24.0"
+  }
+}
